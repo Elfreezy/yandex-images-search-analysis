@@ -27,11 +27,13 @@
 # Локальный запуск
 
 Создание окружения:
+
 '''
 python -m venv venv
 '''
 
 Скачивание зависимостей:
+
 '''
 pip install -r requirements.txt
 '''
